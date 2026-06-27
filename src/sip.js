@@ -24,7 +24,7 @@ export const FRITZBOX_SIP = {
   displayName:  'Pizza Prima',
   // Safe demo placeholders only. Replace from the app settings/Fritz!Box data.
   numbers: [
-    'YOUR_PHONE_NUMBER',
+    '021731619137R',
   ],
 };
 
